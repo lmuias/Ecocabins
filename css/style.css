@@ -124,6 +124,13 @@ body {
   align-items: center;
   flex-wrap: wrap;
 }
+.menu-body {
+  display: flex;
+  column-gap: 40px;
+  row-gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
 .topbar__item {
   color: #FFF;
   font-feature-settings: 'clig' off, 'liga' off;
